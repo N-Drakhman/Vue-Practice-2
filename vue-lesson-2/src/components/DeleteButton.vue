@@ -1,9 +1,5 @@
 <script setup>
-import { ref } from "vue";
 
-// function deleteTask(index) {
-//   tasks.value.splice(index, 1);
-// }
 </script>
 
 <template>
